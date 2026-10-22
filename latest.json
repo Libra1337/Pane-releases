@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "build": 11,
-  "notes": "设置图标换成齿轮。",
-  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1.1-11/Pane-1.1.1.zip",
-  "sha256": "c194797f7f20e5ee1795f2b40d8b137e3226144d4734ffbcf3adcc9a8cb7d14b",
-  "signature": "lKAmKAp3h+9KuHRiTgfC571o596QYMSHyR9hVXCPswFCE0kl1FnldKBUKYfITqSUuIo5aGGj/qiiEOx3IVWDCA==",
+  "version": "1.1.2",
+  "build": 15,
+  "notes": "搜索修复:超大文本文件不再卡住,搜索框会说明只搜了哪一部分",
+  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1.2-15/Pane-1.1.2.zip",
+  "sha256": "712d817fcaaa7903e84c11b7e441729c36e35a6b027e356ccad19b6451228415",
+  "signature": "z2KFkuFnM7GowAgohTXCbu+O+cLNqrYwy9h7jRpCirLhOj7SFE4sGVC17lm/AeeLaxSxcpXoMlfePoAHmypAAg==",
   "minSystem": "13.0"
 }
