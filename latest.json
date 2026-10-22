@@ -1,9 +1,9 @@
 {
-  "version": "1.1.2",
-  "build": 15,
-  "notes": "搜索修复:超大文本文件不再卡住,搜索框会说明只搜了哪一部分",
-  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1.2-15/Pane-1.1.2.zip",
-  "sha256": "712d817fcaaa7903e84c11b7e441729c36e35a6b027e356ccad19b6451228415",
-  "signature": "z2KFkuFnM7GowAgohTXCbu+O+cLNqrYwy9h7jRpCirLhOj7SFE4sGVC17lm/AeeLaxSxcpXoMlfePoAHmypAAg==",
+  "version": "1.1.3",
+  "build": 17,
+  "notes": "超大文本边读边加载:滚到底自动读下一段,不再只显示开头",
+  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1.3-17/Pane-1.1.3.zip",
+  "sha256": "1c4ef109e7357189480cd845a8b2f2ef7edaccf1f0cc2c5dce06e54fae4fdc2a",
+  "signature": "zdm1ijPuBd6Vg9pSmDrtiNs5JEVUtDAHDXBhrJ4ZzUsePEPdrYrbCzCFVMjGoSfZ06hA4oRzPr/UbChqxJY6CQ==",
   "minSystem": "13.0"
 }
