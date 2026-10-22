@@ -1,9 +1,9 @@
 {
-  "version": "1.1",
-  "build": 9,
-  "notes": "第一个带自动更新的版本:主页、HTML 网页模式、缩放跟随列宽、居中 / 铺满、改名 Pane。",
-  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1-9/Pane-1.1.zip",
-  "sha256": "c671861de59c9dea1ce906de8023a751b9198748298512be4978ff8ebf74a18c",
-  "signature": "Igkn7MP+Jv/QotjlLj3SH6QfPg2bvO+MaOfam6x3vBwx7LQgewH1DpH7okkaLo7dNKSmuzsueTzrlIkg0eTODg==",
+  "version": "1.1.1",
+  "build": 11,
+  "notes": "设置图标换成齿轮。",
+  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.1.1-11/Pane-1.1.1.zip",
+  "sha256": "c194797f7f20e5ee1795f2b40d8b137e3226144d4734ffbcf3adcc9a8cb7d14b",
+  "signature": "lKAmKAp3h+9KuHRiTgfC571o596QYMSHyR9hVXCPswFCE0kl1FnldKBUKYfITqSUuIo5aGGj/qiiEOx3IVWDCA==",
   "minSystem": "13.0"
 }
