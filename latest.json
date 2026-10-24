@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "build": 20,
-  "notes": "⌘F 在当前文档里查找(PDF、Word、网页、txt 都能高亮跳转),⌘⇧F 搜整个文件夹",
-  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.2.0-20/Pane-1.2.0.zip",
-  "sha256": "2f2e0641ec200979d809c106d59c1cad3a3524e8d0fd96c7267ec6abefccd4d0",
-  "signature": "h0k7n3EFM+OdaPJ5FRqESoOr+u6/RTFvGrLBPRKhor2ZJJYk2RIhtD5cGYIQt6Nn8i8WkxcGqXRF1mw6QL9YAA==",
+  "version": "1.3.0",
+  "build": 26,
+  "notes": "改名 Zaji:新图标;⌘F 在文档内查找、超大文本边读边加载;从 Pane 自动迁移到 Zaji.app",
+  "url": "https://github.com/Libra1337/Pane-releases/releases/download/v1.3.0-26/Zaji-1.3.0-compat.zip",
+  "sha256": "51e8e6db9898369aed60bd598ffefee05f5c51c3dc60e80dcea60d714f99305c",
+  "signature": "SyO8kelurWHIwBTMHkklzLa85TyDpStM/HwgdZxK2P0DyeCRDNc4MJsrtG5QLbl9EKFqH0skV4k598KKAx9VCw==",
   "minSystem": "13.0"
 }
